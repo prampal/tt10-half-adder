@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = tt_um_prampal_half_Adder.v
+PROJECT_SOURCES = tt_um_prampal_half_adder.v
 
 ifneq ($(GATES),yes)
 
